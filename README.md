@@ -9,7 +9,7 @@ If you would like to practice again, you can retrace your steps below. Just pres
 > [!TIP]
 > Mona won't grade you this time! 😉
 
-
+hi
  # Introduction to GitHub
 
 <!-- ![](https://github.com/codegzclovezh/skills-introduction-to-github/actions/workflows/0-start-exercise.yml/badge.svg) -->
